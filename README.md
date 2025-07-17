@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Azril (@alfaazrilomega)
+### 👋 Hi, I’m Bernald (@alfaazrilomega)
 
 I’m a Fullstack Web Developer with a strong passion for building dynamic, interactive, and visually engaging web experiences.
 
