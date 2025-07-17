@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @alfaazrilomega
-- 👀 I’m interested in Backend Job.
-- 🌱 I’m currently learning Fullstack, and C language.
-- 💞️ I’m looking to collaborate in the advanced world of the web
+### 👋 Hi, I’m Azril (@alfaazrilomega)
 
-<!---
-alfaazrilomega/alfaazrilomega is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a Fullstack Web Developer with a strong passion for building dynamic, interactive, and visually engaging web experiences.
+
+- ⚙️ Skilled in: **Next.js**, **React**, **Three.js**, **GSAP**, and more  
+- 🎨 Love combining clean code with creative animations  
+- 🚀 Always exploring new ways to bring ideas to life on the web  
+- 🤝 Open for collaboration on web projects and creative tech  
+- 🌐 Check out my latest work: [cv-3-d-models.vercel.app](https://cv-3-d-models.vercel.app)
+
+Let’s build something cool together!
