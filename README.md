@@ -52,9 +52,10 @@ Here are the primary tools, languages, and frameworks that I use to bring ideas 
 These trophies showcase my achievements and contributions across various repositories on GitHub:
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=alfaazrilomega&theme=darkhub&column=7&margin-w=15&margin-h=15" alt="github profile trophy" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=alfaazrilomega&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alfaazrilomega&bg_color=0D1117&color=58A6FF&line=7EE7AC&point=58A6FF&area=true&hide_border=true" alt="Contribution Activity Graph" />
 </p>
 
 <p align="center">
@@ -73,8 +74,12 @@ LockIn is a premium, high-performance workspace designed to combine startup-grad
 
 <p align="center">
   <a href="https://github.com/alfaazrilomega/lockin">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alfaazrilomega&repo=lockin&theme=dark&bg_color=0D1117&title_color=58A6FF&icon_color=7EE7AC&text_color=C9D1D9&border_color=30363D" alt="LockIn Project Card" />
+    <img src="https://img.shields.io/badge/📁_Repository-alfaazrilomega/lockin-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="LockIn Repo" />
   </a>
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/alfaazrilomega/lockin?style=for-the-badge&logo=star&color=7EE7AC&labelColor=0D1117" alt="Stars" />
+  &nbsp;
+  <img src="https://img.shields.io/github/languages/top/alfaazrilomega/lockin?style=for-the-badge&color=58A6FF&labelColor=0D1117" alt="Top Language" />
 </p>
 
 <p align="center">
@@ -94,16 +99,23 @@ Here is a live summary of my GitHub contributions, repository statistics, and la
 <table border="0" align="center" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=alfaazrilomega&show_icons=true&bg_color=0D1117&title_color=58A6FF&icon_color=7EE7AC&text_color=C9D1D9&border_color=30363D" alt="Bernald's GitHub Stats" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alfaazrilomega&theme=github_dark" alt="Bernald's GitHub Stats" />
     </td>
     <td width="50%" align="center">
       <img src="https://streak-stats.demolab.com/?user=alfaazrilomega&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=7EE7AC&currStreakNum=7EE7AC&sideNums=C9D1D9&sideLabels=C9D1D9&dates=787774" alt="Bernald's Streak Stats" />
     </td>
   </tr>
   <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alfaazrilomega&theme=github_dark" alt="Repos Per Language" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alfaazrilomega&theme=github_dark" alt="Most Commit Language" />
+    </td>
+  </tr>
+  <tr>
     <td colspan="2" align="center">
-      <br />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfaazrilomega&layout=compact&bg_color=0D1117&title_color=58A6FF&icon_color=7EE7AC&text_color=C9D1D9&border_color=30363D" alt="Bernald's Top Languages" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alfaazrilomega&theme=github_dark" alt="Profile Details" />
     </td>
   </tr>
 </table>
@@ -132,7 +144,7 @@ I am always open to discussing new projects, creative ideas, or opportunities in
   <a href="https://github.com/alfaazrilomega">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/azril-al-fajri-4a2b61292">
+  <a href="https://www.linkedin.com/in/azril-al-fajri-designer/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://cv-3-d-models.vercel.app/">
