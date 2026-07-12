@@ -117,15 +117,15 @@ Here is a live summary of my GitHub contributions, repository statistics, and la
 <table border="0" align="center" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?%75sername=alfaazrilomega&theme=github_dark" alt="Profile Details" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alfaazrilomega&theme=github_dark" alt="Profile Details" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?%75sername=alfaazrilomega&theme=github_dark" alt="GitHub Stats" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alfaazrilomega&theme=github_dark" alt="GitHub Stats" />
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?%75sername=alfaazrilomega&theme=github_dark" alt="Top Languages" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alfaazrilomega&theme=github_dark" alt="Top Languages" />
     </td>
     <td width="50%" align="center">
       <img src="https://streak-stats.demolab.com/?user=alfaazrilomega&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=7EE7AC&currStreakNum=7EE7AC&sideNums=C9D1D9&sideLabels=C9D1D9&dates=787774" alt="GitHub Streak" />
@@ -134,7 +134,7 @@ Here is a live summary of my GitHub contributions, repository statistics, and la
   <tr>
     <td colspan="2" align="center">
       <br />
-      <img src="https://github-readme-activity-graph.vercel.app/graph?%75sername=alfaazrilomega&bg_color=0D1117&color=58A6FF&line=7EE7AC&point=58A6FF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=alfaazrilomega&bg_color=0D1117&color=58A6FF&line=7EE7AC&point=58A6FF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
     </td>
   </tr>
 </table>
